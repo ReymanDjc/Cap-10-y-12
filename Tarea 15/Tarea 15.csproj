@@ -44,6 +44,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cap 10\Estudiantes.cs" />
+    <Compile Include="Cap 10\Inventario.cs" />
+    <Compile Include="Cap 10\Poligono.cs" />
+    <Compile Include="Cap 10\PoligonoPropiedad.cs" />
+    <Compile Include="Cap 10\PoligonoToString.cs" />
+    <Compile Include="Cap 12\Excepciones.cs" />
+    <Compile Include="Cap 12\Factorial.cs" />
+    <Compile Include="Cap 12\WriteLine.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +79,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
